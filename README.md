@@ -55,7 +55,7 @@ L'application de gestion de recettes permet aux utilisateurs de gérer leurs rec
     docker build -t mohamedabdallahi/gestion-recettes:latest .
     ```
 
-- **Publication sur Docker Hub :** L'image Docker est publiée sur Docker Hub. [Lien vers l'image Docker](https://hub.docker.com/layers/mohamedabdallahi/gestion_recettes/latest/images/sha256:f7eb13bf6a68c4600af0bcbe0b19b212e2b6280818fbf896bdb6ac1644368d11?uuid=68762D76-51E9-45A4-85B8-20EAE90C3F8C) (remplacez par le lien réel)
+- **Publication sur Docker Hub :** L'image Docker est publiée sur Docker Hub. [Lien vers l'image Docker](https://hub.docker.com/layers/mohamedabdallahi/gestion_recettes/latest/images/sha256:f7eb13bf6a68c4600af0bcbe0b19b212e2b6280818fbf896bdb6ac1644368d11?uuid=68762D76-51E9-45A4-85B8-20EAE90C3F8C) 
 
 
 ## Prérequis
