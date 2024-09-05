@@ -77,7 +77,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 2. **Naviguer dans le répertoire du projet :**
 
     ```bash
-   cd gestion-recettes
+   cd gestion_recettes
 
 3. **Installer les dépendances :**
 
